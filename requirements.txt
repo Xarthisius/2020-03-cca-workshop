@@ -1,0 +1,8 @@
+numpy
+cython
+scipy
+matplotlib
+pooch
+h5py
+gitpython
+unyt

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pip install git+git://github.com/yt-project/yt@yt-4.0#egg-package=yt
+
+mkdir -p /home/jovyan/.config/yt
+echo "[yt]" > /home/jovyan/.config/yt/ytrc
+echo "test_data_dir = /home/jovyan/work/workspace/sample_data/" >> /home/jovyan/.config/yt/ytrc

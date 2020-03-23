@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Xarthisius/2020-03-cca-workshop/master)
+
 # 2020-03-cca-workshop
 
 Materials for the yt workshop at the CCA in March, 2020
